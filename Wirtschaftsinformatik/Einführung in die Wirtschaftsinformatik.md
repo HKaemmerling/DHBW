@@ -145,10 +145,19 @@ zu 4. : Zufriedene Kunden sind lukrativ, da es einfache ist auf einer bestehnden
 
 
 
-### Einfluss von Software und IT:
+## Einfluss von Software und IT:
 * neue Markteilnehmer können einfacher an den Markt
 * einfacher neue Produkte auf den Markt zu bringen
 * alte Unternehmen und Branchen werden ersetzt
+
+### Arbeit ändert sich:
+* weniger Leute benötigt
+* Daten einfacher auswerten
+* Rolle des Managers ändert sich
+* Strukturwandel (neue Jobs)
+  * flexibles Arbeiten (Zeit und Ort)
+  * Arbeit an Maschine abgeben (Kostenreduktion und Qualitätssteigerung)
+  * von zu hause arbeiten
 
 ## Informationssystem
 * heißt nicht unbedingt, dass Computer beteiligt sind
@@ -187,3 +196,26 @@ zu 4. : Zufriedene Kunden sind lukrativ, da es einfache ist auf einer bestehnden
 * wenig Risiko
 * Grundstruktur bleibt (nach 15 Jahren vll. nicht mehr)
 * gezielte Verbesserung
+
+
+
+## Prozessoptimierung
+1. Prozess analysieren
+2. Prozess verbessern (Innovation)
+3. Monitoring / Kontrolle
+  * an Prozess halten
+  * neues "leben"
+
+### Vorteile:
+* fortschreitende Verbesserung (auch durch Kontrolle)
+* höhere Produktivität
+* Wettbewerbsvorteil
+* Kosten reduzieren
+
+
+## Rolle der IT
+* enabler und Monitor
+* Ergebnisse und Prozesse optimieren
+* allerdings: Business und IT Strategie müssen übereinstimmen (aufeinander ausrichten / beide Bereiche müssen verstehen, was der jeweils andere tut)
+  * warum tue ich was?
+  * wie verdient / verliert meine Firma Geld
