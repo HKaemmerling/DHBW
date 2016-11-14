@@ -4,11 +4,11 @@
 * manuell oder maschinell:
   * erfassen
   * speichern
-  * weiterleiten
+  * übetragen
   * transformieren
-  * bearbeiten
-  * analysieren
-  * auslesen
+    * bearbeiten
+    * analysieren
+    * auslesen
 
 
 

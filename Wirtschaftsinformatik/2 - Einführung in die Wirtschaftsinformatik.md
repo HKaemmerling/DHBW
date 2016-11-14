@@ -69,7 +69,7 @@
 ### Definition: variety, velosity, volume
 * viele Daten (hohe Menge)
 * verschiedene Daten
-* Flüchtigkeit (Daten verändern sich, verlieren schnell an Relevanz, nur kurzzeitig vorhanden)
+* Flüchtigkeit (Daten verändern sich, verlieren schnell an Relevanz, nur kurzzeitig vorhanden --> ich muss direkt handeln)
 * unstrukturiert
 
 ### Challenge
@@ -95,5 +95,46 @@
 2.  * bessere Vorraussetzungen für Simulationen und Experimente
 3.  * Kaufverhalten analysieren
     * Kundenkreis segmentieren
+    * tailored products
 4.  * menschliche Entscheidungen unterstützen (ersetzen)
-    *
+5.  * neue Geschäftsmodelle (z.B. Daten von Autos nutzen)
+6.  * mehr Daten generieren
+
+
+
+## Datenbanken
+### File Management System (alt):
+* Infosilo für jede Abteilung
+* keinen gesamten Plan für die Daten (abteilungsübergreifend)
+* jede Anwendung hat andere Anforderungen
+* --> **inkonsitent**
+
+### Datenbank Management (neu):
+* alle (authorisierten) haben Zugriff auf alle Daten
+* --> weniger (bis keine) Redundanz, Isolation oder Inkonsitenz
+* Vorteile:
+  * nur eine Quelle, die geschützt werden muss (sicher)
+  * Integrität
+  * Unabhängigkeit (zwischen versch. Quellen, da keine Daten in verschieden Quellen)
+
+
+## Datenhierarchie
+* **Bit** : 0 oder 1
+* **Byte** : 8 bit
+* **Feld** : logische Gruppierung von Zeichen (z.B. Wort, ID, Gruppe von Wörtern)
+* **Record** : Eintrag / logische Gruppe von Feldern (z.B. Tabelleneintrag --> Zeile)
+* **File** : logische Gruppe von Records (z.B. Tabelle)
+* **Datenbank** : Sammlung von Files (z.B. Tabellen)
+
+
+## ER Modelling
+* Ziel:
+  * darstellen, wie Benutzer Aktivitäten definieren
+  * Datenbanken planen
+  * prüfen, ob alles vorhanden ist
+  * Design der Datenbank
+* --> ER Diagramm mit Entitäten, Beziehungen,  Attributen (+ Schlüsselattribute), Kardinalitäten (in Normalform)
+
+
+## Wichtige Begriffe (Klausur)
+* 
