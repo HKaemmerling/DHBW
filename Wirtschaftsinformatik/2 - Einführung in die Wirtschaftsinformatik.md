@@ -67,6 +67,7 @@
 ## Big Data
 
 ### Definition: variety, velosity, volume
+* große Menge an flüctigen Daten, die sehr vielfältig sind
 * viele Daten (hohe Menge)
 * verschiedene Daten
 * Flüchtigkeit (Daten verändern sich, verlieren schnell an Relevanz, nur kurzzeitig vorhanden --> ich muss direkt handeln)
@@ -137,4 +138,80 @@
 
 
 ## Wichtige Begriffe (Klausur)
-* 
+* **Datenmodell** : Formale Beschreibung Beziehungen untereinander
+* **Entität** : Objekt aus Realität
+* **Instanz** : Darstellungsform Entität (**ein** Objekt einer Entität &rarr; eindeutig)
+* **Attribut** : Charakteristika der Entität
+* **Primärschlüssel** : Eindeutiges Feld, dass einen Datensatz eindeutig identifiziert
+* **Sekundärschlüssel** : Identifikation aber nicht 100% eindeutig
+* **Fremdschlüssel** (!=Sekundärschlüssel)
+
+* **&rarr;** Datenbank : jeder kann laden, analysieren, verstehen
+
+## Datenbank Management
+* Set von Programmen (add, access, modify, analyze)
+* &rarr; effektiv, effizient
+* Aufgaben:
+  * maintain Data
+  * manage security
+  * Recover bei failure
+
+## Datawarehouse (alles) (verwaltete durch Data Management System (unveränderbar)
+* Ansammlung von historical data
+* strategisch
+* alles
+* Ziel:
+  * Daten den Konsumenten zur Verfügung stellen (detailliert und aus **allen** Datenbanken)
+* &rarr; zentrale Kontrolle &rarr; Weitblick
+
+
+!=
+
+
+## Data Marts (auf aggregierten Teil spezialiesiert) (unveränderbar)
+* themenbezogen
+* weniger Daten
+* zusammengefasst
+* kontextbezogen
+* aggregiert
+* &rarr; Ziel: Dem Konsumenten spezifische Daten zur Verfügung zu stellen
+
+
+## Wichtige Punkte bei Data Warehouse und Data Marts
+* Zeitabhängig
+* multidimensional
+* OLAP nutzen &rarr; Online analytical prossecing
+* integriert
+* werden in der Regel nicht verändert
+
+
+
+
+
+## Wo ist mein Wissen?
+* **Wissen = intelektuelles Kapital**
+* größtenteils nicht strukturiert in Datenbanken, Informationssystemen
+* meist in:
+  * Mails
+  * Dokumenten
+  * Präsentationen
+  * User PCs
+* **Folge** : es ist schwer ohne die benötigten Informationen Entscheidungen zu treffen
+
+### Explizites Wissen
+* **objektiv**, technisch
+* rational
+* **dokumentiert** (&rarr; ständig abrufbar)
+* liegt vor
+
+### Implizites Wissen (tacit) (**oft wichtiger** (crucial))
+* **subjektiv**
+* experimentiell
+* Erfahrungswerte
+* unstrukturiert
+* schwer transferierbar
+* nicht dokumentiert
+* liegt nicht allen vor
+* in den Köpfen meiner Mitarbeiter
+
+# Wissensmanagement  

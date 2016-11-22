@@ -18,13 +18,18 @@
     * Interesse != Angebot
     * invitatio ad offerendum: Einladung zur Abgabe eines Angebots **Klausur 100%**
   * **Paragraph 164 BGB** : (Querverweis zu 104,165,177)
+    * Stellvertretung
     * Willenserklärung: jemand äußert eine Absicht, etwas zu tuen oder unterlassen
     * Handeln im Willen eines Anderen
+    * Erklärungen für einen Dritten
   * **Paragraph 903 BGB** : (Querverweis 823,985,1004)
+    * Herrschaftsrecht
+    * Eigentumsrecht (Eigentum != Besitz)
+    * z.B. bei Rechtsgutverletzung
     * ich darf mit meinem Eigentum machen, was ich möchte (solange ich kein Gesetzt oder Rechte Dritter verletze)
   * weiter Anspruchsgrundlagen:  823 (), 985, 1004
   * **Paragraph 823** : (--> 276)
-    * vorsätzlich: mit Wissen und Wollen (ich weiß, was passiert und will es)
+    * vorsätzlich: mit Wissen und Wollen (ich weiß, was passiert und will es) man nimmt es billigend in Kauf
     * fahrlässig: durch Fehlverhalten (unabsichtlich)
       * Fahrlässig handelt, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.
     * nur, wenn eines von beiden zutrifft --> **Schadensersatzpflichtig**
